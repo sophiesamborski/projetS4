@@ -7,3 +7,5 @@ Projet S4 dans le cadre DUT MMI
 
 c'est un mec qui rentre dans un bar et qui cris " c'est moi !"
  mais en fait c'etait pas lui.
+
+ test
